@@ -188,6 +188,7 @@ nav a:hover{
 #text, #tex, #te{
     height: 30px;
     margin-bottom: 10px;
+    width: 33.3%;
 }
 .home button{
     margin-bottom: 80px;
